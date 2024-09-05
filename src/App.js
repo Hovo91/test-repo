@@ -7,7 +7,6 @@ function App() {
   return (
     <Provider store={store}>
       <Search />
-      <p>New</p>
       <Products />
     </Provider>
   );
